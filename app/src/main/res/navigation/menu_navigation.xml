@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/yandex_webView"
+    android:title="Карта"
+    android:icon="@drawable/ic_ym"/>
+    <item
+        android:id="@+id/our_project_webView"
+        android:title="О проекте"
+        android:icon="@drawable/ic_op"/>
+
+</menu>
